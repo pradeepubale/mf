@@ -17,6 +17,7 @@ For all the students, not just for this course but for all subjects !
 Chapter             | Assignment
 --------------------|------------
 Set Theory Basics   |[Problem Set 01](https://drive.google.com/file/d/124fekBHLrQE3Arf_touqSx9pVVhuDBQA/view?usp=sharing)
+Set Operations      |[Problem Set 02](https://drive.google.com/file/d/1SPvtjLMesT_DtqEWaBBfUQefqAjPlIwL/view?usp=sharing)
 
 
 
