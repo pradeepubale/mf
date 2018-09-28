@@ -21,5 +21,6 @@ Set Operations      |[Problem Set 02](https://drive.google.com/file/d/1SPvtjLMes
 
 
 
+General typical theory questions from old papers [General Questions](https://drive.google.com/file/d/1_W41wD63IjpeKBvTVdHeGA2AvBnrxjWh/view?usp=sharing)
 
 Due Date for Problem Set will be one week after the topic finished in class.
